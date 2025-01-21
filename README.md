@@ -1,4 +1,4 @@
-# Bharat-Loksabha-Elections-Result-Analysis-2024
+# Indian-General-Elections-Result-Analysis-2024
   - This project provides an in-depth analysis of the 2024 Bharat Loksabha elections using advanced SQL functions. 
   - It highlights key election metrics such as state-wise results, party-wise seat distribution, and voting patterns.
   - The analysis delivers actionable insights for political stakeholders and strategists.
